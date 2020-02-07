@@ -1,6 +1,4 @@
-# Config for my mac.
-
-Some config-codes:
+# mac setups
 
 * CLT xcode: 
 
